@@ -49,6 +49,61 @@ Here are some ideas to get you started:
 </p>
 
 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Animated README</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <style>
+    /* Add custom CSS for animations or styling */
+  </style>
+</head>
+<body>
+
+  <div class="jumbotron text-center">
+    <h1>Welcome to My README</h1>
+    <p>Let's explore my background and projects</p>
+  </div>
+
+  <div class="container">
+    <h2>About Me</h2>
+    <p>I am a passionate software developer with expertise in web development and a strong focus on front-end technologies.</p>
+    <!-- Add more sections and information about yourself -->
+
+    <h2>Projects</h2>
+    <!-- Add cards or other components to showcase your projects with animations -->
+    <div class="card-deck">
+      <div class="card">
+        <img class="card-img-top" src="project1.jpg" alt="Project 1">
+        <div class="card-body">
+          <h5 class="card-title">Project 1</h5>
+          <p class="card-text">Brief description of project 1</p>
+        </div>
+      </div>
+      <div class="card">
+        <img class="card-img-top" src="project2.jpg" alt="Project 2">
+        <div class="card-body">
+          <h5 class="card-title">Project 2</h5>
+          <p class="card-text">Brief description of project 2</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Add more project cards as needed -->
+
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <script>
+    // Add custom JavaScript for animations or interactivity
+  </script>
+</body>
+</html>
+
+
+
 <!---
 Ashikcv17/Ashikcv17 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
